@@ -1,0 +1,7 @@
+{
+  "name": "Urdu Real-time Transcriber",
+  "description": "A real-time transcription application that captures spoken Urdu using the device's microphone and converts it into written Urdu script. It is specifically tuned to only recognize and transcribe the Urdu language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
